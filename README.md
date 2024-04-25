@@ -1,6 +1,3 @@
-<div align="center">
-ovamust here
-  </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div align="center">
@@ -18,7 +15,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, i'm finding for bug and solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](t.me/ovamust)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/ovamust)
 
 ---
 
